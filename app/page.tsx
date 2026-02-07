@@ -341,7 +341,6 @@ export default function Home() {
     <span className="bg-white text-black px-3 py-1 rounded-full text-sm font-semibold">
       INR 3,999
     </span>
-    
   </button>
   </a>
 </div>
