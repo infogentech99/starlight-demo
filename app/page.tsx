@@ -107,8 +107,8 @@ export default function Home() {
       {/* hero section */}
       <div
         className="
-    bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1769754820/laavan_mobile_bg_dhiww2.png')]
-    md:bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1769754981/laavan_bg_hujjxn.png')]
+    bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443137/demo_hero_starlight_mobile_c9wcjp.png')]
+    md:bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770441435/demo_hero_starligh_xiw4cw.png')]
     bg-cover
     bg-no-repeat
     bg-top
@@ -293,7 +293,7 @@ export default function Home() {
       </div>
 
 
-      <div className="hidden md:block bg-[url('/assets/meetthebroom.png')] bg-cover bg-no-repeat">
+      <div className="hidden md:block bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770441679/starlight_meetthebroom_nt89qi.png')] bg-cover bg-no-repeat">
         <div className="lg:h-325 md:h-180">
           <h1 className="lg:text-3xl text-xl text-center text-[#E1EF1E] lg:pt-64 pt-12 font-cormorant">
             MEET THE
@@ -307,7 +307,7 @@ export default function Home() {
 
       {/* mobile visible section */}
 
-      <div className="md:hidden bg-[url('/assets/group_mobile.png')] bg-cover bg-no-repeat">
+      <div className="md:hidden bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770441899/starlight_meetthebroom_mobile_ta6jnd.png')] bg-cover bg-no-repeat">
         <div className="h-220">
           <h1 className="text-xl text-center text-[#E1EF1E] lg:pt-48 pt-28 font-cormorant">
             MEET THE
@@ -322,13 +322,13 @@ export default function Home() {
       <CoupleMessage />
       <ThingsToKnow />
 
-      <div className="hidden md:block bg-[url('/assets/bridewithmoon.png')] bg-cover bg-no-repeat">
+      <div className="hidden md:block bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770442082/starlight_bridewithmoon_lrkn71.png')] bg-cover bg-no-repeat">
         <div className="lg:h-325 md:h-180">
         </div>
       </div>
 
       {/* mobile visible section */}
-      <div className="md:hidden bg-[url('/assets/bridewithmoon_mobile.png')] bg-cover bg-no-repeat">
+      <div className="md:hidden bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770442117/starlight_bridewithmoon_mobile_k0ctcp.png')] bg-cover bg-no-repeat">
         <div className="h-210">
         </div>
       </div>

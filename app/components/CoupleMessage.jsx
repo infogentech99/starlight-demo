@@ -8,37 +8,37 @@ export default function CoupleMessage() {
 
     const testimonial = [
         {
-            img: 'https://res.cloudinary.com/dpmceu66e/image/upload/v1762256798/blog-app/blogs/blogs/1762256795276-frame_338.png',
+            img: 'https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443251/couple1_pcnmgb.png',
         },
 
         {
-            img: 'https://res.cloudinary.com/dpmceu66e/image/upload/v1762256798/blog-app/blogs/blogs/1762256795276-frame_338.png',
-        },
-
-
-        {
-            img: 'https://res.cloudinary.com/dpmceu66e/image/upload/v1762256798/blog-app/blogs/blogs/1762256795276-frame_338.png',
-        },
-
-        {
-            img: 'https://res.cloudinary.com/dpmceu66e/image/upload/v1762256798/blog-app/blogs/blogs/1762256795276-frame_338.png',
+            img: 'https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443256/couple2_ewuukm.png',
         },
 
 
         {
-            img: 'https://res.cloudinary.com/dpmceu66e/image/upload/v1762256798/blog-app/blogs/blogs/1762256795276-frame_338.png',
+            img: 'https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443257/couple3_jv1rqy.png',
+        },
+
+        {
+            img: 'https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443333/couple4_logxvy.png',
         },
 
 
         {
-            img: 'https://res.cloudinary.com/dpmceu66e/image/upload/v1762256798/blog-app/blogs/blogs/1762256795276-frame_338.png',
+            img: 'https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443789/couple5_tyxsm2.jpg',
+        },
+
+
+        {
+            img: 'https://res.cloudinary.com/dx2di0mvx/image/upload/v1770443874/couple6_xrksyk.jpg',
         },
 
     ]
 
     return (
 
-        <div className="bg-[url('/assets/backmid.png')] bg-cover bg-no-repeat">
+        <div className="bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770442914/starlight_backmid_seap_o8cz6q.png')] bg-cover bg-no-repeat">
             <div className="lg:h-592 md:h-520 h-510">
                 <h1 className="lg:text-[40px] md:text-3xl text-[50px] text-center text-[#DEE6FF] lg:pt-32 pt-12 font-cormorant-upright">A message from the couple</h1>
                 <h2 className="lg:text-[30px] text-[18px]  text-center text-[#DEE6FF] lg:px-60 px-6 lg:mt-28 mt-12 font-cormorant-upright lg:leading-8 md:leading-8 leading-6">
