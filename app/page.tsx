@@ -333,15 +333,15 @@ export default function Home() {
         </div>
       </div>
       <MarriageCountdown />
-<div className="fixed bottom-5 left-1/2 -translate-x-1/2 z-50">
-<a href="https://palevioletred-hamster-362989.hostingersite.com/">
-  <button className="flex items-center justify-between gap-3 border--white border-2 bg-white/0 backdrop-blur text-white px-6 py-3 rounded-full shadow-lg w-[60vw] md:w-[16vw] max-w-md cursor-pointer">
-    
-    <span className="text-white text-16px font-semibold">Buy Now</span>
-    <span className="bg-white text-black px-3 py-1 rounded-full text-sm font-semibold">
-      INR 3,999
-    </span>
-  </button>
+<div className="fixed top-5 left-5 z-50">
+  <a href="https://palevioletred-hamster-362989.hostingersite.com/">
+    <button className="flex items-center gap-3 border-white border-2 bg-white/0 backdrop-blur text-white px-6 py-3 rounded-full shadow-lg cursor-pointer">    
+      <span className="text-3xl leading-none">←</span>
+      <span className="text-[16px] font-semibold">
+        Back To Website
+      </span>
+
+    </button>
   </a>
 </div>
     </>
