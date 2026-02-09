@@ -338,7 +338,7 @@ export default function Home() {
     <button className="flex items-center gap-3 border-white border-2 bg-white/0 backdrop-blur text-white px-6 py-3 rounded-full shadow-lg cursor-pointer">    
       <span className="text-3xl leading-none">←</span>
       <span className="text-[16px] font-semibold">
-        Back To Website
+        Exit Preview
       </span>
 
     </button>
