@@ -42,9 +42,9 @@ export default function ThingsToKnow() {
 
                     <div className="flex flex-col justify-center items-center lg:mt-0 mt-18">
                     
-                    <img src="/assets/newmoon.png" alt="" className="bg-cover bg-no-repeat lg:h-80 lg:w-80 h-65 w-65 md:h-90 md:w-90 md:mt-12" />
+                    <img src="/assets/kirannew_moon.png" alt="" className="bg-cover bg-no-repeat lg:h-80 lg:w-80 h-65 w-65 md:h-90 md:w-90 md:mt-12" />
                     <h2 className="lg:text-3xl text-2xl text-center text-white lg:pt-6 font-cormorant-upright">Please help us capture our special day, <br/> use the hashtag</h2>
-                    <h2 className="lg:text-3xl text-2xl text-center text-white pt-2 font-cormorant-upright"> #FromRiaToKataria</h2>
+                    <h2 className="lg:text-3xl text-2xl text-center text-white pt-2 font-cormorant-upright"> #FromKiranpreetToKapoor</h2>
                     {/* <h2 className="lg:text-2xl text-xl text-center text-white lg:pt-12 md:pt-12 pt-6 font-cormorant">Hashtag</h2>
                     <h2 className="lg:text-2xl text-xl text-center text-white pt-2 font-cormorant">While posting photos on social media <br />please use the hashtag - #FromRiaToKataria</h2> */}
                 </div>

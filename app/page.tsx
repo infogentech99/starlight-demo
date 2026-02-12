@@ -188,11 +188,11 @@ export default function Home() {
      text-[50px] sm:text-5xl lg:text-[80px] md:pb-350 pb-0
   flex flex-col items-center gap-y-6">
 
-            <span className="font-parisienne">Hargun</span>
+            <span className="font-parisienne">Harpreet</span>
 
             <span className="text-xl sm:text-3xl tracking-[10px] font-cormorant">WEDS</span>
 
-            <span className="font-parisienne">Ria</span>
+            <span className="font-parisienne">Kiranpreet </span>
 
           </h2>
 
@@ -211,13 +211,13 @@ export default function Home() {
 
             <h2 className="text-[#E6D2FF] lg:text-[30px] md:text-2xl text-[18px] font-cormorant-upright">
               With the heavenly blessings of <br />
-              Our late grandparents,<br /> Sdn. Parkash Kaur and Sd. Avtar Singh.
+              Our late grandparents,<br /> Sdn. Sukhwinder Kaur and Sd. Tejinder Singh.
             </h2>
 
             <hr className="lg:w-24 w-16 border-[#E6D2FF] my-4" />
 
             <h2 className="text-[#E6D2FF] font-cormorant-upright lg:text-[30px] md:text-2xl text-[22px]">
-              The Kataria Family
+              The Kapoor Family
             </h2>
           </div>
 
@@ -234,23 +234,23 @@ export default function Home() {
 
             <h2 className="text-[#E6D2FF] font-cormorant-upright text-center mt-14
             md:text-5xl text-[60px] lg:text-[100px] leading-tight font-bold">
-              HARGUN
+              HARPREET
             </h2>
 
             <p className="text-[#E6D2FF] font-cormorant-upright lg:text-[30px] md:text-2xl text-[18px] mt-2">
-              S/O <br /> Amarjeet Singh and Gurmeet Kaur
+              S/O <br /> Surinder Singh and Manjeet Kaur
             </p>
 
             <h2 className="text-[#E6D2FF] font-cormorant-upright text-center mt-4
             text-[60px] sm:text-7xl lg:text-[100px] leading-tight font-bold">
               <span className="text-[#E6D2FF] font-cormorant-upright text-center lg:mt-10 mt-4 
             md:text-5xl text-[80px] lg:text-[150px] leading-tight">&</span>   <br />
-              RIA
+              KIRANPREET
             </h2>
 
 
             <p className="text-[#E6D2FF] font-cormorant-upright lg:text-[30px] md:text-2xl mt-2 text-[18px]">
-              D/O <br /> Ram Jaiswal and Roomy Jaiswal
+              D/O <br /> Ranjit Singh and Kulwinder Kaur
 
             </p>
             <p className="text-[#E6D2FF] font-cormorant-upright lg:text-3xl md:text-2xl text-[22px] mt-8">
