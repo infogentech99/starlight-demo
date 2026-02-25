@@ -38,7 +38,7 @@ export default function CoupleMessage() {
 
     return (
 
-        <div className="bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1770442914/starlight_backmid_seap_o8cz6q.png')] bg-cover bg-no-repeat">
+        <div className="bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1771999444/inter_bg_water_mid_demo_nnycf8.webp')] bg-cover bg-no-repeat">
             <div className="lg:h-482 md:h-520 h-400">
                 <h1 className="lg:text-[40px] md:text-3xl text-[50px] text-center text-[#DEE6FF] lg:pt-32 pt-12 font-cormorant-upright">A message from the couple</h1>
                 <h2 className="lg:text-[30px] text-[18px]  text-center text-[#DEE6FF] lg:px-60 px-6 lg:mt-28 mt-12 font-cormorant-upright lg:leading-8 md:leading-8 leading-6">
